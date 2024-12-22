@@ -1,4 +1,4 @@
-Course: INTRODUCTION TO NEURAL NETWORKS
+Module: INTRODUCTION TO NEURAL NETWORKS
 
 # Project-4--Bank-Customer-Churn-Prediction
 
